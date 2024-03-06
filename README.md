@@ -21,7 +21,7 @@ En este proyecto, se desarrollará una API en **FastAPI** para Steam Games, con 
 
 Para el desarrollo de la FastAPI te recomiendo usar la siguiente plantilla que es un codespaces con la que podras configurarte de forma rapida una API [codespaces FastAPI](https://github.com/education/codespaces-project-template-py.git)
 
-## Análisis Exploratorio de Datos (EDA) <a name="eda"></a>
+## Análisis Exploratorio de Datos (EDA) <a name="eda"></a> 
 
 En esta sección, se exploran los datos disponibles para comprender su estructura, calidad y características relevantes. El EDA proporciona información crucial para el desarrollo del modelo de recomendación. Consulta el notebook [EDA.ipynb](EDA.ipynb) para más detalles.
 
